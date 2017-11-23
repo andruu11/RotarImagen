@@ -1,0 +1,9 @@
+D:\Ayudantia\proyectos-visualstudio\RotarImagen\RotarImagen\bin\Debug\RotarImagen.exe.config
+D:\Ayudantia\proyectos-visualstudio\RotarImagen\RotarImagen\bin\Debug\RotarImagen.exe
+D:\Ayudantia\proyectos-visualstudio\RotarImagen\RotarImagen\bin\Debug\RotarImagen.pdb
+D:\Ayudantia\proyectos-visualstudio\RotarImagen\RotarImagen\obj\Debug\RotarImagen.csprojResolveAssemblyReference.cache
+D:\Ayudantia\proyectos-visualstudio\RotarImagen\RotarImagen\obj\Debug\RotarImagen.Form1.resources
+D:\Ayudantia\proyectos-visualstudio\RotarImagen\RotarImagen\obj\Debug\RotarImagen.Properties.Resources.resources
+D:\Ayudantia\proyectos-visualstudio\RotarImagen\RotarImagen\obj\Debug\RotarImagen.csproj.GenerateResource.Cache
+D:\Ayudantia\proyectos-visualstudio\RotarImagen\RotarImagen\obj\Debug\RotarImagen.exe
+D:\Ayudantia\proyectos-visualstudio\RotarImagen\RotarImagen\obj\Debug\RotarImagen.pdb
